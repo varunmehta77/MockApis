@@ -1,0 +1,52 @@
+{
+	"auth_token": "AAGCE-ADBAD-AS124-A24FD",
+	"events": [{
+		"id": "1",
+		"event_name": "Tayseer Umrah 2018",
+		"event_logo": "<URL>",
+		"event_splash": "<URL>",
+		"desc": "Umrah with Shaykh Hassan 2018!",
+		"start_date": "Mar 9, 2018",
+		"end_date": "Mar 18, 2018",
+		"location": "Mecca",
+		"lat": "",
+		"lng": "",
+		"website": "",
+		"email_id": "tayseer@gmail.com",
+		"twitter_hashtag": "TAYSEER2018",
+		"fb_hashtag": "TAYSEER2018",
+		"access_type": "closed"
+	}, {
+		"id": "2",
+		"event_name": "Harris HLDP",
+		"event_logo": "<URL>",
+		"event_splash": "<URL>",
+		"desc": "Harris Leadership Development Program",
+		"start_date": "Mar 11, 2018",
+		"end_date": "Mar 16, 2018",
+		"location": "Palm Bay FL",
+		"lat": "",
+		"lng": "",
+		"website": "",
+		"email_id": "",
+		"twitter_hashtag": "harrisHDLP18",
+		"fb_hashtag": "harrisHDLP18",
+		"access_type": "open"
+	}, {
+		"id": "3",
+		"event_name": "LJPC True To Life Meeting",
+		"event_logo": "<URL>",
+		"event_splash": "<URL>",
+		"desc": "The True to Life Meeting will unite the LJPC commercial field teams, medical affairs and senior management to align strategically and collaberatively around positioning a novel vasopressor (GIAPREZA) for the treatment of septic and distributive shock.",
+		"start_date": "Mar 11, 2018",
+		"end_date": "Mar 16, 2018",
+		"location": "San Diego CA",
+		"lat": "",
+		"lng": "",
+		"website": "",
+		"email_id": "",
+		"twitter_hashtag": "harrisHDLP18",
+		"fb_hashtag": "harrisHDLP18",
+		"access_type": "open"
+	}]
+}
